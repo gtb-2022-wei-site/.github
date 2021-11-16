@@ -2,4 +2,5 @@
 
 Hi! This is Wei Site.
 
-![avatar](.\img\cat.jpg)
+![avatar](img/cat.jpg)
+
