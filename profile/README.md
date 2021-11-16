@@ -2,5 +2,5 @@
 
 Hi! This is Wei Site.
 
-<img src="img/cat.jpg" alt="avatar" />
+<img src="assets/cat.jpg" alt="avatar" />
 
