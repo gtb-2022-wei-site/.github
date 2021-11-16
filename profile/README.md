@@ -2,5 +2,5 @@
 
 Hi! This is Wei Site.
 
-![avatar](img/cat.jpg)
+<img src="img/cat.jpg" alt="avatar" />
 
